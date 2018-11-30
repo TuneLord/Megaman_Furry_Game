@@ -1,5 +1,5 @@
 # Megaman Furry Game
-2D game titled "Megaman Furry Game". The gameplay consists in collecting as many megaman heads as possible on the map and avoid random generating enemies. If you collect 50 heads - boss Ice Man arrives.
+2D game titled "Megaman Furry". The gameplay consists in collecting as many megaman heads as possible on the map and avoid random generating enemies. If you collect 50 heads - boss Ice Man arrives.
 
 <strong><h1>Features</h1></strong>
 * **animated hero** megaman, 
