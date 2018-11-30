@@ -8,6 +8,7 @@
 }
 
 body {
+    overflow: hidden;
     position: relative;
     font-family: megaman, Arial, sans-serif;
     margin: 0;
@@ -131,6 +132,7 @@ a {
     color: rgba(32, 165, 254, 0.95);
     text-align: center;
     border-radius: 5px;
+    margin-bottom: 10px;
 }
 
 a:hover {
