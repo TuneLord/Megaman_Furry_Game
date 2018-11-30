@@ -117,7 +117,7 @@ var Game = function () {
             this.showCoin();
 
 //Przyzwanie bossa
-            if (this.score === 10) {
+            if (this.score === 50) {
                 self.showBoss();
                 clearInterval(spawnEnemies);
                 document.querySelector(".levelmusic").pause();
