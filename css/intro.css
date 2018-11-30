@@ -17,6 +17,7 @@
         transform: translateY(-100px);
     }
 }
+
 @keyframes slide-top {
     0% {
         -webkit-transform: translateY(0);
