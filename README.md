@@ -26,6 +26,5 @@ You can clone the repository:
 
 `git clone https://github.com/TuneLord/Megaman_Furry_Game.git`
 
-Or play online:
-
+<strong><h1>Preview</h1></strong>
 [Megaman Furry Game](https://tunelord.github.io/Megaman_Furry_Game/)
