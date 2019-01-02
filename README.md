@@ -26,4 +26,4 @@
 ## Preview
 [Megaman Furry Game](https://tunelord.github.io/Megaman_Furry_Game/)
 
-![Megaman Dancing](https://github.com/TuneLord/Megaman_Furry_Game/blob/master/images/intro.gif =250x250)
+![Megaman Dancing](https://github.com/TuneLord/Megaman_Furry_Game/blob/master/images/intro.gif&s=200)
