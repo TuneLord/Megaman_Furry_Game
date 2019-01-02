@@ -1,4 +1,4 @@
-![Megaman Furry](https://github.com/TuneLord/Megaman_Furry_Game/blob/master/LogoMain.png)
+![Megaman Furry](https://github.com/TuneLord/Megaman_Furry_Game/blob/master/images/LogoMain.png)
 
 # Megaman Furry Game
 2D game titled "Megaman Furry". The gameplay consists in collecting as many megaman heads as possible on the map and avoid random generating enemies. If you collect 50 heads - boss Ice Man arrives.
@@ -25,5 +25,3 @@
 
 ## Preview
 [Megaman Furry Game](https://tunelord.github.io/Megaman_Furry_Game/)
-
-![Megaman Dancing](https://github.com/TuneLord/Megaman_Furry_Game/blob/master/images/intro.gif | width=48)
